@@ -1,8 +1,9 @@
 # QRCodeScanner-MAUI
 
-<p align="center">
-  <img src="images/app_icon.jpg" width="180">
-</p>
+![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-blue)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A cross-platform QR Code Scanner built with .NET MAUI.
 
@@ -67,20 +68,21 @@ The project was migrated to .NET MAUI to:
 ### Application Installed
 
 <p align="center">
-  <img src="images/app_icon.jpg" width="35%">
+  <img src="images/app_icon.jpg" width="45%">
 </p>
 
 ### Main Screen
 
 <p align="center">
-  <img src="images/main_screen.jpg" width="35%">
+  <img src="images/main_screen.jpg" width="45%">
 </p>
 
 ### Successful QR Scan
 
 <p align="center">
-  <img src="images/qr_scan_success.jpg" width="35%">
+  <img src="images/qr_scan_success.jpg" width="45%">
 </p>
+
 ---
 
 ## Sample QR Payload
@@ -146,11 +148,11 @@ All sample data included in this repository is fictional and used only for demon
 
 👩‍💻 **Melika Mehranpour**
 
-Senior Software Engineer | .NET Developer | Enterprise Applications
+Senior Software Engineer | Full Stack .NET Developer | Enterprise Applications
 
-**Technologies**
+### Technologies
 
-C# • .NET • ASP.NET Core • SQL Server • PostgreSQL • Power BI • Python • MAUI
+C# • .NET • ASP.NET Core • SQL Server • PostgreSQL • Power BI • Python • .NET MAUI
 
 ### Connect with me
 🔗 [LinkedIn](https://www.linkedin.com/in/melika-mehranpour-41b627161/) | [GitHub](https://github.com/MelikaWorks)
