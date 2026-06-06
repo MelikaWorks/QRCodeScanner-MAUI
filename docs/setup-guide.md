@@ -1,5 +1,11 @@
 # Setup Guide
 
+## Project Background
+
+This project was initially developed as a web-based proof of concept (PoC) to validate the QR code processing workflow and data structure.
+
+After successful validation of the business requirements and scanning workflow, the solution was migrated to a .NET MAUI Android application to provide real-time QR scanning capabilities on mobile devices.
+
 ## Prerequisites
 
 Before running the application, make sure the following tools are installed:
@@ -7,7 +13,6 @@ Before running the application, make sure the following tools are installed:
 - Visual Studio 2022
 - .NET MAUI Workload
 - Android SDK
-- Android Emulator (optional)
 - Physical Android Device (recommended)
 
 ## Required NuGet Packages
@@ -17,26 +22,16 @@ Before running the application, make sure the following tools are installed:
 ## Build Steps
 
 1. Clone the repository.
-
-```bash
-git clone https://github.com/your-username/QRCodeScanner-MAUI.git
-```
-
 2. Open the solution in Visual Studio 2022.
-
 3. Restore NuGet packages.
-
 4. Select Android as the startup target.
-
-5. Build the project.
-
-6. Run the application on a physical Android device or emulator.
+5. Build and run the application.
 
 ## Verification
 
 After launching the application:
 
-- Grant Camera Permission.
-- Open the QR Scanner page.
+- Grant camera permission.
+- Open the scanner page.
 - Scan the sample QR code located in the samples folder.
-- Verify that JSON payload information is displayed successfully.
+- Verify that a JSON payload is generated successfully.
