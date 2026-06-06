@@ -1,20 +1,23 @@
 # Security Notes
 
-This repository contains only a demonstration version of the QR Code Scanner application.
+This repository contains a public demonstration version of the QR Code Scanner project.
 
-The following items are intentionally excluded:
+The original project was developed for an industrial inventory and warehouse scanning scenario.
 
-- ERP Integration Details
-- Warehouse Management System (WMS) APIs
-- Internal Business Logic
-- Authentication Credentials
-- Database Connection Information
-- Production Endpoints
+To protect organizational information, the following items have been intentionally excluded:
+
+- ERP integration details
+- WMS integration details
+- API endpoints
+- Authentication mechanisms
+- Database connections
+- Production configuration
+- Internal business rules
 
 ## Sample Data
 
-All QR codes, payloads, and screenshots included in this repository contain fictional data created solely for demonstration and testing purposes.
+All screenshots, QR codes, and JSON payloads included in this repository use fictional demonstration data.
 
 ## Confidentiality
 
-Any future integrations with enterprise systems are not publicly disclosed due to security and confidentiality requirements.
+Future enterprise integrations are not included in this public repository due to security and confidentiality requirements.
