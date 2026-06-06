@@ -68,19 +68,19 @@ The project was migrated to .NET MAUI to:
 ### Application Installed
 
 <p align="center">
-  <img src="images/app_icon.jpg" height="300">
+  <img src="images/app_icon.jpg" height="350">
 </p>
 
 ### Main Screen
 
 <p align="center">
-  <img src="images/main_screen.jpg" height="300">
+  <img src="images/main_screen.jpg" height="350">
 </p>
 
 ### Successful QR Scan
 
 <p align="center">
-  <img src="images/qr_scan_success.jpg"height="300">
+  <img src="images/qr_scan_success.jpg"height="350">
 </p>
 
 ---
