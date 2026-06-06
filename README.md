@@ -67,19 +67,19 @@ The project was migrated to .NET MAUI to:
 ### Application Installed
 
 <p align="center">
-  <img src="images/app_icon.jpg" width="45%">
+  <img src="images/app_icon.jpg" width="35%">
 </p>
 
 ### Main Screen
 
 <p align="center">
-  <img src="images/main_screen.jpg" width="45%">
+  <img src="images/main_screen.jpg" width="35%">
 </p>
 
 ### Successful QR Scan
 
 <p align="center">
-  <img src="images/qr_scan_success.jpg" width="45%">
+  <img src="images/qr_scan_success.jpg" width="35%">
 </p>
 ---
 
@@ -142,8 +142,6 @@ All sample data included in this repository is fictional and used only for demon
 
 ---
 
----
-
 ## Author
 
 👩‍💻 **Melika Mehranpour**
@@ -155,12 +153,10 @@ Senior Software Engineer | .NET Developer | Enterprise Applications
 C# • .NET • ASP.NET Core • SQL Server • PostgreSQL • Power BI • Python • MAUI
 
 ### Connect with me
-
-- GitHub: [https://github.com/MelikaWorks]
-- LinkedIn: [https://www.linkedin.com/in/melika-mehranpour-41b627161/]
+🔗 [LinkedIn](https://www.linkedin.com/in/melika-mehranpour-41b627161/) | [GitHub](https://github.com/MelikaWorks)
 
 ---
 
 ## License
 
-See the LICENSE file for license information.
+See the [LICENSE](LICENSE) file for license information.
