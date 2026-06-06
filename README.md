@@ -66,16 +66,21 @@ The project was migrated to .NET MAUI to:
 
 ### Application Installed
 
-![Installed App](images/app_icon.jpg)
+<p align="center">
+  <img src="images/app_icon.jpg" width="45%">
+</p>
 
 ### Main Screen
 
-![Main Screen](images/main_screen.jpg)
+<p align="center">
+  <img src="images/main_screen.jpg" width="45%">
+</p>
 
 ### Successful QR Scan
 
-![QR Scan Result](images/qr_scan_success.jpg)
-
+<p align="center">
+  <img src="images/qr_scan_success.jpg" width="45%">
+</p>
 ---
 
 ## Sample QR Payload
@@ -151,8 +156,8 @@ C# • .NET • ASP.NET Core • SQL Server • PostgreSQL • Power BI • Pyth
 
 ### Connect with me
 
-- GitHub: (https://github.com/MelikaWorks)
-- LinkedIn: [(https://www.linkedin.com/in/melika-mehranpour-41b627161/)]
+- GitHub: [https://github.com/MelikaWorks]
+- LinkedIn: [https://www.linkedin.com/in/melika-mehranpour-41b627161/]
 
 ---
 
