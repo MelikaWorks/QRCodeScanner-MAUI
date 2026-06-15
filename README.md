@@ -99,9 +99,14 @@ Current features include:
 <p align="center">
   <img src="images/scanner_main_screen_v2.jpg" height="350">
   <img src="images/coil_scan_result_v2.jpg" height="350">
-  <img src="images/file_saved_result_v2.jpg" height="350">
 </p>
 
+<p align="center">
+  <img src="images/file_saved_result_v2.jpg" height="350">
+  <img src="images/share_scan_file_v2.jpg" height="350">
+</p>
+
+The application allows operators to export scanned QR results into timestamped TXT files and instantly share them using Android's native Share Sheet.
 ---
 
 ## Application Installed
