@@ -7,23 +7,27 @@
 
 A cross-platform QR Code Scanner built with .NET MAUI.
 
-This project was initially developed as a web-based Proof of Concept (PoC) to validate the QR processing workflow and inventory data structure. After successful validation, the solution was migrated to a .NET MAUI Android application to provide real-time QR scanning capabilities on mobile devices.
+This project was initially developed as a web-based Proof of Concept (PoC) to validate QR processing workflows and inventory data structures. After successful validation, it evolved into an Android application for real-time QR scanning and was later enhanced to support actual warehouse operations at Haft Almas.
 
 ---
 
 ## Project Overview
 
-The application scans QR codes using the device camera and generates structured JSON payloads that can be consumed by inventory, warehouse, or ERP systems.
+The application scans QR codes using the device camera and generates structured outputs that can be consumed by inventory, warehouse, or ERP systems.
 
-Current version focuses on:
+### Current capabilities
 
-- QR Code Scanning
-- Camera Integration
-- JSON Payload Generation
-- Android Device Deployment
-- Real Device Testing
+- Real-time QR code scanning
+- Continuous scanning mode
+- Android camera integration
+- Display of the latest scanned QR value
+- Scan counter
+- Export scanned results to TXT files
+- Automatic file creation in the Downloads folder
+- Share generated scan files using Android Share Sheet
+- Tested on physical Android devices
 
-Future versions may include:
+### Future Enhancements
 
 - ERP Integration
 - Warehouse Management System (WMS) Integration
@@ -50,37 +54,60 @@ Future versions may include:
 A web-based prototype was developed to:
 
 - Validate the QR workflow
-- Test payload structure
+- Test payload structures
 - Verify inventory-related data models
 
-### Phase 2 – Mobile Application
+Early version capabilities included:
 
-The project was migrated to .NET MAUI to:
-
-- Enable real-time camera scanning
-- Support Android deployment
-- Improve usability in warehouse environments
-
----
-
-## Screenshots
-
-### Application Installed
-
-<p align="center">
-  <img src="images/app_icon.jpg" height="350">
-</p>
-
-### Main Screen
+- Single QR processing
+- JSON payload generation
+- Workflow validation
 
 <p align="center">
   <img src="images/main_screen.jpg" height="350">
+  <img src="images/qr_scan_success.jpg" height="350">
 </p>
 
-### Successful QR Scan
+---
+
+### Phase 2 – Initial Mobile Application
+
+The project was migrated to .NET MAUI to:
+
+- Enable camera-based QR scanning
+- Support Android deployment
+- Improve usability in warehouse environments
+- Validate functionality on physical devices
+
+---
+
+### Phase 3 – Haft Almas QR Coil Scanner (Current Version)
+
+The application was enhanced to support actual warehouse workflows.
+
+Current features include:
+
+- Continuous QR scanning
+- Coil QR data processing
+- Display of the latest scanned QR value
+- Real-time scan counter
+- Export scan results to TXT files
+- Automatic file generation in the Downloads folder
+- Share generated files through Android Share Sheet
+- Real device testing in operational scenarios
 
 <p align="center">
-  <img src="images/qr_scan_success.jpg"height="350">
+  <img src="images/scanner_main_screen_v2.jpg" height="350">
+  <img src="images/coil_scan_result_v2.jpg" height="350">
+  <img src="images/file_saved_result_v2.jpg" height="350">
+</p>
+
+---
+
+## Application Installed
+
+<p align="center">
+  <img src="images/app_icon.jpg" height="350">
 </p>
 
 ---
@@ -144,6 +171,17 @@ All sample data included in this repository is fictional and used only for demon
 
 ---
 
+## Current Status
+
+```text
+Haft Almas QR Coil Scanner v2.1
+Status: Active
+Deployment: Android
+Technology: .NET MAUI
+```
+
+---
+
 ## Author
 
 👩‍💻 **Melika Mehranpour**
@@ -155,7 +193,9 @@ Senior Software Engineer | Full Stack .NET Developer | Enterprise Applications
 C# • .NET • ASP.NET Core • SQL Server • PostgreSQL • Power BI • Python • .NET MAUI
 
 ### Connect with me
-🔗 [LinkedIn](https://www.linkedin.com/in/melika-mehranpour-41b627161/) | [GitHub](https://github.com/MelikaWorks)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/melika-mehranpour-41b627161/)
+🔗 [GitHub](https://github.com/MelikaWorks)
 
 ---
 
