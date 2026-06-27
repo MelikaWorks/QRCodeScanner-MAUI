@@ -26,6 +26,9 @@ The application scans QR codes using the device camera and generates structured 
 - Automatic file creation in the Downloads folder
 - Share generated scan files using Android Share Sheet
 - Tested on physical Android devices
+- Duplicate QR code prevention
+- Android 9 and below file storage support
+- Persian font support (Vazirmatn)
 
 ### Future Enhancements
 
@@ -43,7 +46,6 @@ The application scans QR codes using the device camera and generates structured 
 - C#
 - Android
 - ZXing.Net.Maui
-- JSON Serialization
 
 ---
 
@@ -179,7 +181,7 @@ All sample data included in this repository is fictional and used only for demon
 ## Current Status
 
 ```text
-Haft Almas QR Coil Scanner v2.1
+Haft Almas QR Coil Scanner v2.2
 Status: Active
 Deployment: Android
 Technology: .NET MAUI
